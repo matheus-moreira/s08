@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://barrabateriasrj.com.br/sitemap.xml
